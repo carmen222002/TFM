@@ -112,7 +112,7 @@ MIT License. Libre para modificar y distribuir con atribución.
 
 ## ✍️ Autor
 
-**Carmen \[Tu Apellido]**
+**Carmen \[González]**
 TFM - Bioinformática
 
 ---
