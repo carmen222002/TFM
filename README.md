@@ -5,10 +5,9 @@ Este repositorio contiene scripts para el análisis de mutaciones somáticas a p
 ## 📁 Estructura del proyecto
 .
 ├── scripts/
-│   ├── lanzador\_dragen\_ctdna.sh      # Script para lanzar trabajos en BaseSpace (Bash)
-│   └── filtrar\_analizar\_maf.R        # Procesamiento, filtrado y análisis de archivos MAF (R)
+│ ├── lanzador_dragen_ctdna.sh # Script para lanzar trabajos en BaseSpace (Bash)
+│ └── filtrar_analizar_maf.R # Procesamiento, filtrado y análisis de archivos MAF (R)
 ├── README.md
-
 
 ---
 
