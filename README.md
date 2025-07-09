@@ -1,13 +1,21 @@
+# Análisis de mutaciones somáticas en ctDNA con DRAGEN y maftools
+
 Este repositorio contiene scripts para el análisis de mutaciones somáticas a partir de datos de ADN circulante tumoral (ctDNA), combinando herramientas de la plataforma **BaseSpace** (DRAGEN Enrichment) y procesamiento/análisis posterior en **R** con el paquete `maftools`.
 
 ---
 
 ## 📁 Estructura del proyecto
+
+
+```markdown
+
 .
 ├── scripts/
-│ ├── lanzador_dragen_ctdna.sh # Script para lanzar trabajos en BaseSpace (Bash)
-│ └── filtrar_analizar_maf.R # Procesamiento, filtrado y análisis de archivos MAF (R)
+│   ├── lanzador\_dragen\_ctdna.sh      # Script para lanzar trabajos en BaseSpace (Bash)
+│   └── filtrar\_analizar\_maf.R        # Procesamiento, filtrado y análisis de archivos MAF (R)
 ├── README.md
+
+```
 
 ---
 
