@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de README adaptado a tus dos scripts (uno en R para procesamiento y análisis de MAFs, otro en Bash para lanzar análisis de ctDNA en BaseSpace DRAGEN Enrichment), siguiendo buenas prácticas de documentación en GitHub:
-
----
-
 Este repositorio contiene scripts para el análisis de mutaciones somáticas a partir de datos de ADN circulante tumoral (ctDNA), combinando herramientas de la plataforma **BaseSpace** (DRAGEN Enrichment) y procesamiento/análisis posterior en **R** con el paquete `maftools`.
 
 ---
