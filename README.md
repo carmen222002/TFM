@@ -76,13 +76,7 @@ Edita el script `plots_maf.R`:
 
 * Modifica la línea `carpeta_mafs <- ""` con la ruta local donde tengas los archivos `.maf` descargados.
 
-Ejecuta el script en R:
-
-```r
-source("scripts/filtrar_analizar_maf.R")
-```
-
-Esto hará lo siguiente:
+Ejecuta el script en R. Esto hará lo siguiente:
 
 * Leer múltiples archivos `.maf`
 * Aplicar filtros estrictos de calidad y anotación
